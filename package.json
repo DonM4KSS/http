@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "No",
+  "main": "index.js",
+  "keywords": [
+    "maxim"
+  ],
+  "author": "m4kss",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
